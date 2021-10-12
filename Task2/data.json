@@ -1,0 +1,32 @@
+[
+    {
+        "firstname": "ragib",
+        "lastname": "redwan",
+        "email": "rragib07@gmail.com",
+        "age": "20",
+        "pwd": "12345678",
+        "languague": "PHP",
+        "myfile": "240894721_4429864410409042_7958425146815116663_n.png",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "redwan",
+        "lastname": "ragib",
+        "email": "ragibredwan01740@gmail.com",
+        "age": "30",
+        "pwd": "12345678",
+        "languague": "PHP",
+        "myfile": "240894721_4429864410409042_7958425146815116663_n.png",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "abcde",
+        "lastname": "xyzab",
+        "email": "abc@gmail.com",
+        "age": "23",
+        "pwd": "12345678",
+        "languague": "C++",
+        "myfile": "240894721_4429864410409042_7958425146815116663_n.png",
+        "designation": "Junior Programmer"
+    }
+]
