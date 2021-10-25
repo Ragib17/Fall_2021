@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Ragib",
+        "lastName": "Redwan",
+        "email": "ragibredwan01740@gmail.com",
+        "mobile": "0174049",
+        "address": "dhaka",
+        "workType": "part time"
+    },
+    {
+        "firstName": "sajib",
+        "lastName": "sakib",
+        "email": "rragib07@gmail.com",
+        "mobile": "0174049",
+        "address": "dhaka",
+        "workType": "part time"
+    },
+    {
+        "firstName": "abid",
+        "lastName": "sakib",
+        "email": "asdasd@gmail.com",
+        "mobile": "0174049",
+        "address": "dhaka",
+        "workType": "part time"
+    }
+]

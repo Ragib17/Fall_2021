@@ -1,0 +1,23 @@
+[
+    {
+        "Product Name": "Lenovo",
+        "Product Number": "02",
+        "Production Date": "20\/10\/20",
+        "Expire Date": "20\/10\/21",
+        "Quantity": "50"
+    },
+    {
+        "Product Name": "bajaj",
+        "Product Number": "03",
+        "Production Date": "20\/10\/20",
+        "Expire Date": "20\/10\/21",
+        "Quantity": "50"
+    },
+    {
+        "Product Name": "garnier",
+        "Product Number": "01",
+        "Production Date": "20\/10\/20",
+        "Expire Date": "20\/10\/21",
+        "Quantity": "50"
+    }
+]
