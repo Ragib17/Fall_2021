@@ -1,0 +1,50 @@
+.fname{
+    background-color: #f7d85f;
+}
+.lname{
+    background-color: #f7d85f;
+}
+.age{
+    background-color: #f7d85f;
+}
+.designation{
+    background-color: #f7d85f;
+}
+.prelanguage{
+    background-color: #f7d85f;
+}
+.email{
+    background-color: #f7d85f;
+}
+.pass{
+    background-color: #f7d85f;
+}
+.file{
+    background-color: #f7d85f;
+}
+div {
+    padding: 5px;
+    margin: 2px;
+  }
+  .button {
+    background-color: #51caf7;
+    color: white;
+    padding: 7px 20px;;
+    text-align: center;
+    border-radius: 14px;
+    display: inline-block;
+    font-size: 15px;
+  }
+.formcl{
+    background-color: #BAD2D4;
+}
+.resf{
+    background-color: #DBF0F3;
+}
+.head{
+    text-align: center;
+    background-color: #CCFEFD;
+}
+.tdhome{
+    background-color: #8383f0;
+}
